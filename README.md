@@ -5,7 +5,6 @@ Displays a farewell message and gracefully shuts down your PC effortlessly
 1. Run the Press the button
 2. Program will display a matrix effect
 3. Your computer will shutdown
-<br>
 
 # Preview:
 
